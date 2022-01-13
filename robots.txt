@@ -1,0 +1,3 @@
+User-agent: *
+
+Sitemap: https://workoutroutineplan.github.io/sitemap.xml
